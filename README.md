@@ -79,13 +79,6 @@ Wedding planning often involves multiple events, vendors, budgets, and dates, wh
 
 ---
 
-## 👩‍🎓 Project Details
-
-- **Student Name:** Fathima Fildha P  
-- **Batch:** PY – 04  
-- **Project Type:** React Persistent CRUD Application  
-
----
 
 ## 📈 Future Enhancements
 
